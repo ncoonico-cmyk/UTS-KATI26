@@ -58,7 +58,7 @@
                 <br>
                 <div align="center">
                     <a href="https://kresna.co.id/sarikresnakimia" target="_blank">
-                        <img src="c:\Users\COCO STORE\OneDrive\Documents\logo1.jpeg" alt="Iklan Layanan" width="100%" style="border-radius: 5px;"><br>
+                        <img src="logo1.jpeg" alt="Iklan Layanan" width="100%" style="border-radius: 5px;"><br>
                         <small style="color: #666;">Link: PT Kresna Kimia</small>
                     </a>
                 </div>
@@ -72,19 +72,19 @@
                 <table width="100%" border="1" bordercolor="#e0e0e0" cellspacing="10" cellpadding="10" style="border-collapse: collapse;">
                     <tr align="center">
                         <td width="33%">
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat1.jpeg" alt="Obat 1" width="100%" style="max-width:150px;"><br>
+                            <img src="obat1.jpeg" alt="Obat 1" width="100%" style="max-width:150px;"><br>
                             <h4>Herbisida Tamaxone</h4>
                             <p style="color: #cc0000; font-weight: bold;">Rp. 1ltr 58.000</p>
                             <a href="#detail"><button style="background-color: #008080; color: white; border: none; padding: 7px 15px; border-radius: 3px; cursor: pointer;">Lihat Detail / Beli</button></a>
                         </td>
                         <td width="33%">
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat2.jpeg" alt="Obat 2" width="100%" style="max-width:150px;"><br>
+                            <img src="obat2.jpeg" alt="Obat 2" width="100%" style="max-width:150px;"><br>
                             <h4>Insektisida Vulgar</h4>
                             <p style="color: #cc0000; font-weight: bold;">Rp. 500ml 120.000</p>
                             <a href="#transaksi"><button style="background-color: #008080; color: white; border: none; padding: 7px 15px; border-radius: 3px; cursor: pointer;">Beli Sekarang</button></a>
                         </td>
                         <td width="33%">
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat3.jpeg" alt="Obat 3" width="100%" style="max-width:150px;"><br>
+                            <img src="obat3.jpeg" alt="Obat 3" width="100%" style="max-width:150px;"><br>
                             <h4>Fungisida Kovinplus</h4>
                             <p style="color: #cc0000; font-weight: bold;">Rp. 1ltr 160.000</p>
                             <a href="#transaksi"><button style="background-color: #008080; color: white; border: none; padding: 7px 15px; border-radius: 3px; cursor: pointer;">Beli Sekarang</button></a>
@@ -92,19 +92,19 @@
                     </tr>
                     <tr align="center">
                         <td>
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat4.jpeg" alt="Obat 4" width="100%" style="max-width:150px;"><br>
+                            <img src="obat4.jpeg" alt="Obat 4" width="100%" style="max-width:150px;"><br>
                             <h4>Insektisida Kresban</h4>
                             <p style="color: #cc0000; font-weight: bold;">Rp. 2kg 33.000</p>
                             <a href="#transaksi"><button style="background-color: #008080; color: white; border: none; padding: 7px 15px; border-radius: 3px; cursor: pointer;">Beli Sekarang</button></a>
                         </td>
                         <td>
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat5.jpeg" alt="Obat 5" width="100%" style="max-width:150px;"><br>
+                            <img src="obat5.jpeg" alt="Obat 5" width="100%" style="max-width:150px;"><br>
                             <h4>Nematisida Kresnadan</h4>
                             <p style="color: #cc0000; font-weight: bold;">Rp 14.500</p>
                             <a href="#transaksi"><button style="background-color: #008080; color: white; border: none; padding: 7px 15px; border-radius: 3px; cursor: pointer;">Beli Sekarang</button></a>
                         </td>
                         <td>
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat6.jpeg" alt="Obat 6" width="100%" style="max-width:150px;"><br>
+                            <img src="obat6.jpeg" alt="Obat 6" width="100%" style="max-width:150px;"><br>
                             <h4>Insektisida Fostin</h4>
                             <p style="color: #cc0000; font-weight: bold;">Rp 1ltr 160.000</p>
                             <a href="#transaksi"><button style="background-color: #008080; color: white; border: none; padding: 7px 15px; border-radius: 3px; cursor: pointer;">Beli Sekarang</button></a>
@@ -146,7 +146,7 @@
                 <table width="100%" border="0" cellspacing="10" cellpadding="10">
                     <tr valign="top">
                         <td width="40%" align="center">
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\obat1.jpeg" alt="Tamaxone Detail" width="100%" style="border: 1px solid #ccc; border-radius: 5px;">
+                            <img src="obat1.jpeg" alt="Tamaxone Detail" width="100%" style="border: 1px solid #ccc; border-radius: 5px;">
                         </td>
                         <td width="60%">
                             <h3 style="margin-top:0;">Herbisida Tamaxone 1 Liter</h3>
@@ -258,7 +258,7 @@
                     <tr valign="top">
                         <!-- Kolom Foto (Sesuai Visual di Screenshot 2026-06-02 195301.PNG) -->
                         <td width="35%" align="center" style="border-right: 1px solid #444444; padding: 25px 15px;">
-                            <img src="c:\Users\COCO STORE\OneDrive\Documents\mypicture.jpeg" alt="Foto M Nicola Anggara S" width="280" style="border: 1px solid #555555; display: block;">
+                            <img src="mypicture.jpeg" alt="Foto M Nicola Anggara S" width="280" style="border: 1px solid #555555; display: block;">
                         </td>
                         <!-- Kolom Detail Data -->
                         <td width="65%" style="padding: 25px 30px; font-size: 16px; line-height: 1.6;">
@@ -318,7 +318,7 @@
                 <hr color="#20b2aa"><br>
 
                 <div align="center">
-                    <img src="c:\Users\COCO STORE\OneDrive\Documents\fotogudang.jpeg" alt="Foto Toko Pertanian" style="width:100%; max-width:500px; border-radius: 5px;"><br>
+                    <img src="fotogudang.jpeg" alt="Foto Toko Pertanian" style="width:100%; max-width:500px; border-radius: 5px;"><br>
                     <small style="color: #666;">Dokumentasi Distribusi Utama Obat Sawah Wilayah Subang</small>
                 </div>
                 <br>
