@@ -262,7 +262,7 @@
                         </td>
                         <!-- Kolom Detail Data -->
                         <td width="65%" style="padding: 25px 30px; font-size: 16px; line-height: 1.6;">
-                            <table width="100%" border="0" cellspacing="0" cellpadding="8" style="color: #ffffff;">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="8" style="color: #000000;">
                                 <tr>
                                     <td width="20%"><b>Nama</b></td>
                                     <td width="5%" align="center">:</td>
